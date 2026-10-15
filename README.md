@@ -2,8 +2,6 @@
 
 A RESTful library management API built using Python, Flask, and SQLite. It allows users to manage books, register library members, and track borrowed and returned books.
 
-I built this project to practise working with REST APIs, databases, and automated testing in Python while developing my backend programming skills.
-
 ## Features
 
 - Add books and retrieve the list of books
